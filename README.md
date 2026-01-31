@@ -4,6 +4,9 @@
 
 <div align="center">
   <b> Cloud Analyst | 1x Azure | 1x Gitlab </b>
+
+  Cloud & IAM Analyst experienced in multi‑cloud, security standards, and automation. I manage user lifecycle across AWS, Azure, and on‑premises environments, build automations with Python/Bash/PowerShell, and work with CI/CD and Terraform. I’ve led PCI DSS certification efforts and supported critical environments in large financial institutions. Focused on efficiency, security, and aligning technology with business needs.
+
 </div><br>
 
 [comment]: # (Social button)
@@ -18,11 +21,8 @@
   
 </div>
 
-### 📊 Linguagens mais usadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=actiago&layout=compact&theme=tokyonight)
-
-### 📈 Minhas estatísticas no GitHub
-![Tiago GitHub stats](https://github-readme-stats.vercel.app/api?username=actiago&show_icons=true&theme=tokyonight)
-
-
-
+![Repos Card](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=actiago&theme=tokyonight)
+![Commits Card](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=actiago&theme=tokyonight)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=actiago&theme=tokyonight)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=actiago&theme=tokyonight)
+``
